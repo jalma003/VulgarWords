@@ -1,0 +1,3 @@
+<Directory "Your directory path/uploads/">
+Allow from all
+</Directory>
